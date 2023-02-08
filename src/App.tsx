@@ -7,7 +7,7 @@ import { Todo } from './types';
 
 function App() {
 
-  const[todo, setTodo] = useState<Todo[]>([])
+  const [todo, setTodo] = useState<Todo[]>([])
 
   return (
     <div className="App">

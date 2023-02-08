@@ -1,4 +1,4 @@
-.input{
+.input {
     margin-top: 5px;
     padding: 5px;
     font-size: 16px;
@@ -7,11 +7,11 @@
     border: 1px solid #dcdcdc;
 }
 
-.btnBlock{
+.btnBlock {
     align-items: center;
 }
 
-.btn{
+.btn {
     margin-left: 12px;
     font-size: 16px;
     border-radius: 3px;
@@ -19,11 +19,11 @@
     height: 25px;
 }
 
-.btns{
+.btns {
     display: flex;
 }
 
-.list{
+.list {
     display: flex;
     justify-content: space-between;
     flex-direction: row;
@@ -34,12 +34,12 @@
     border-radius: 3px;
 }
 
-.list:hover{
+.list:hover {
     background: #65b088;
     border-radius: 6px;
 }
 
-.close{
+.close {
     color: grey;
     text-decoration: line-through;
 }
